@@ -34,6 +34,9 @@ Integration: REST APIs for flight, hotel, and itinerary data
 
 Environment: Python 3.10 +, dotenv for secure key management
 
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/9bbf27a1-2729-4f21-a0ff-d62384ea6df5" />
+
+
 __Tech Stack__
 
 | Category   | Tools / Frameworks                      |
